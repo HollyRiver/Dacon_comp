@@ -1,0 +1,20 @@
+embeddings {
+  tensor_name: "build_num:00690"
+  metadata_path: "00690/build_num/metadata.tsv"
+  tensor_path: "00690/build_num/tensors.tsv"
+}
+embeddings {
+  tensor_name: "build_type:00690"
+  metadata_path: "00690/build_type/metadata.tsv"
+  tensor_path: "00690/build_type/tensors.tsv"
+}
+embeddings {
+  tensor_name: "wday:00690"
+  metadata_path: "00690/wday/metadata.tsv"
+  tensor_path: "00690/wday/tensors.tsv"
+}
+embeddings {
+  tensor_name: "month:00690"
+  metadata_path: "00690/month/metadata.tsv"
+  tensor_path: "00690/month/tensors.tsv"
+}
